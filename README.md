@@ -1,4 +1,4 @@
-# EncuentraloFacil-Android
+# EncuentraloFacil-WEB
 
 ##Somos una Startup que busca mejorar el acceso de los comercios y pymes a la tecnologia, enfocado a los negocios y comercios de los municipios de Colombia.
 
